@@ -8,6 +8,7 @@ output [3:0] ans ;
 input clk, reset ;
 
 assign ans = num_1 * num_2 ;
+//checking the github cha
 
 endmodule 
 
